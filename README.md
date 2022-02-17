@@ -1,6 +1,14 @@
 # Projekt na zaliczenie przedmiotu Projektowanie Mikrokontrolerów A.D WMiI UŁ 2021/2022 
 
-## Biblioteki wymagane do skompilowania projektu
+### Projekt składa się z
+
+- main.ino - kod mikrokontrolera
+- raport.pdf - raport
+- video.mp4 - film prezentujący działanie
+- data - folder zawierający pliki statyczne serwowane przez serwer http
+
+
+### Biblioteki wymagane do skompilowania projektu
 
 ESP8266WiFiMulti – https://github.com/esp8266/Arduino/blob/master/libraries/ESP8266WiFi/src/ESP8266WiFiMulti.h 
 
